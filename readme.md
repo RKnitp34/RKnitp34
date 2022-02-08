@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-  - 👋 Hi, I’m @RKnitp
+  - 👋 Hi, I’m Rakesh 
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 -  👀 I’m interested in learning new technologies.
